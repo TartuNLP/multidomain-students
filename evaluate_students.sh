@@ -8,7 +8,7 @@ SRCLANG=et
 TGTLANG=en
 
 # Download and uncompress models and test sets
-wget https://owncloud.ut.ee/owncloud/index.php/s/SBHw9z5pfRdAi79/download/finetuned-students.tar.gz
+wget https://owncloud.ut.ee/owncloud/index.php/s/it7yC5nakFder5a/download/finetuned-students.tar.gz
 
 tar -xf finetuned-students.tar.gz
 
@@ -58,8 +58,8 @@ done
 # Evaluate on WMT18
 echo "WMT18 test set"
 
-test_src=${TEST_SETS_PATH}/wmt18.${SRCLANG}-${TGTLANG}.test.src
-test_tgt=${TEST_SETS_PATH}/wmt18.${SRCLANG}-${TGTLANG}.test.ref
+test_src=${TEST_SETS_PATH}/wmt18.${SRCLANG}-${TGTLANG}.src
+test_tgt=${TEST_SETS_PATH}/wmt18.${SRCLANG}-${TGTLANG}.ref
 STUDENT_PATH=models/student-from-teacher-0
 echo "STUDENT-0"
 # cd $STUDENT_PATH
