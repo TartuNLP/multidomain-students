@@ -23,7 +23,6 @@ echo "Held-out test sets"
 echo "STUDENT-0"
 
 STUDENT_PATH=models/student-from-teacher-0
-# cd $STUDENT_PATH
 for corpus in Europarl GNOME KDE4 Ubuntu DGT JRC-Acquis EMEA OpenSubtitles infopankki ParaCrawl
 do
   test_src=${TEST_SETS_PATH}/shuf-${corpus}.test.${SRCLANG}
@@ -39,7 +38,6 @@ do
 done
 
 echo "STUDENT-FT"
-# cd $STUDENT_PATH
 STUDENT_PATH=models/student-from-teachers-ft
 for corpus in Europarl GNOME KDE4 Ubuntu DGT JRC-Acquis EMEA OpenSubtitles infopankki ParaCrawl
 do
@@ -62,7 +60,6 @@ test_src=${TEST_SETS_PATH}/wmt18.${SRCLANG}-${TGTLANG}.src
 test_tgt=${TEST_SETS_PATH}/wmt18.${SRCLANG}-${TGTLANG}.ref
 STUDENT_PATH=models/student-from-teacher-0
 echo "STUDENT-0"
-# cd $STUDENT_PATH
 cat $test_src \
 |$MARIAN/marian-decoder \
 --config ${STUDENT_PATH}/model.npz.best-bleu-detok.npz.decoder.yml \
@@ -72,7 +69,6 @@ cat $test_src \
 
 STUDENT_PATH=models/student-from-teachers-ft
 echo "STUDENT-FT"
-# cd $STUDENT_PATH
 cat $test_src \
 |$MARIAN/marian-decoder \
 --config ${STUDENT_PATH}/model.npz.best-bleu-detok.npz.decoder.yml \
