@@ -15,14 +15,14 @@ Currently, we are using the method from [Distilling Multiple Domains for Neural 
 3. Forward-translate training data with the corresponding fine-tuned teachers
 4. Train one student on the concatenation of all forward-translated data
 
-We previously used [this teacher model trained by UEDIN]( http://data.statmt.org/romang/bergamot/models/eten.teacher.checkpoints.tgz)) as the initial teacher model 
+We previously used [this teacher model trained by UEDIN]( http://data.statmt.org/romang/bergamot/models/eten.teacher.checkpoints.tgz) as the initial teacher model 
 and an existing student model to which we compared our students. However, these models are already fine-tuned to perform best on news data, which led to suboptimal performance on other datasets. 
 The performance improvement of fine-tuned teacher models on held-out test sets turned out to be unreasonably large compared to the original model, as well as the gap between the UEDIN student
 and our student model trained using data forward-translated by multiple fine-tuned teachers. 
 
 We compare the student student trained on the original teacher's translations (S0)
- to a student trained on fine-tuned teachers' forward-translations (S-FT)
- as well as a student trained on fine-tuned teachers' forward-translations, but with all data groups balanced to have the same total size (S-FT-bal),
+ to a student trained on fine-tuned teachers' forward-translations (S-FT),
+ as well as a student trained on fine-tuned teachers' forward-translations but with all data groups balanced to have the same total size (S-FT-bal),
  and the UEDIN WMT student (S-UEDIN). BLEU on held-out test sets and WMT18: 
 
 | corpus  | Europarl | GNOME | KDE4 | Ubuntu | DGT   | JRC-Acquis | EMEA    | OpenSubtitles | ParaCrawl | infopankki | WMT      | average  |
