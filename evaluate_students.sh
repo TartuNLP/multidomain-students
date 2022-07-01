@@ -12,9 +12,9 @@ wget https://owncloud.ut.ee/owncloud/index.php/s/it7yC5nakFder5a/download/finetu
 
 tar -xf finetuned-students.tar.gz
 
-TEST_SETS_PATH=test-sets
-MODELS_PATH=models
-OUT_PATH=test-translations
+TEST_SETS_PATH=finetuned-students/test-sets
+MODELS_PATH=finetuned-students/models
+OUT_PATH=finetuned-students/test-translations
 LOGS_DIR=${OUT_PATH}
 
 mkdir -p ${OUT_PATH}
