@@ -2,19 +2,19 @@
 
 # set GPUS and marian location
 GPUS="1"
-MARIAN=/raid/lisa_k/pipeline-testing-clusters/firefox-translations-training/3rd_party/marian-dev/build
+MARIAN=marian-dev/build
 
 SRCLANG=et
 TGTLANG=en
 
 # Download and uncompress models and test sets
-#wget https://owncloud.ut.ee/owncloud/index.php/s/it7yC5nakFder5a/download/finetuned-students.tar.gz
+wget https://owncloud.ut.ee/owncloud/index.php/s/it7yC5nakFder5a/download/finetuned-students.tar.gz
 
-#tar -xf finetuned-students.tar.gz
+tar -xf finetuned-students.tar.gz
 
-TEST_SETS_PATH=finetuned-students-new-to-share/test-sets
-MODELS_PATH=finetuned-students-new-to-share/models
-OUT_PATH=finetuned-students-new-to-share/test-translations
+TEST_SETS_PATH=test-sets
+MODELS_PATH=models
+OUT_PATH=test-translations
 LOGS_DIR=${OUT_PATH}
 
 mkdir -p ${OUT_PATH}
