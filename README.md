@@ -2,6 +2,8 @@
 
 To download and evaluate the fine-tuned student, set the `GPUS` and `MARIAN` variables in `evaluate_students.sh` and run the script.
 
+Requirements: `marian`, `sacrebleu`
+
 Currently, we are using the method from [Distilling Multiple Domains for Neural Machine Translation](https://aclanthology.org/2020.emnlp-main.364.pdf):
 
 1. Train general teacher model. We used 10 corpora which we split into 6 groups:
@@ -20,7 +22,7 @@ and an existing student model to which we compared our students. However, these 
 The performance improvement of fine-tuned teacher models on held-out test sets turned out to be unreasonably large compared to the original model, as well as the gap between the UEDIN student
 and our student model trained using data forward-translated by multiple fine-tuned teachers. 
 
-We compare the student student trained on the original teacher's translations (S0)
+We compare the student model trained on the original teacher's translations (S0)
  to a student trained on fine-tuned teachers' forward-translations (S-FT),
  as well as a student trained on fine-tuned teachers' forward-translations but with all data groups balanced to have the same total size (S-FT-bal),
  and the UEDIN WMT student (S-UEDIN). BLEU on held-out test sets and WMT18: 
