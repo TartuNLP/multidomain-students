@@ -1,0 +1,500 @@
+_Empty Project
+Box non-uniformity
+minutes
+Flag condition
+Font for text with fixed width, such as code examples.
+Interrupting the process may make disc unusable.
+Edit your accounts
+Address, e.g. sip:xyz@ekiga.net
+SASL _mechanism
+the two of diamonds
+Copy _All
+_Identity name:
+Create 1:1 copy of a CD/DVD
+This allows you to set the mode for sending DTMFs. The values can be "String" (0), "Tone" (1), "RFC2833" (2), "Q.931" (3) (default is "String"). Choosing other values than "String" disables the Text Chat
+Show dialog
+click the "Add" button to show a selection dialog
+Enable 'Fast Connect'
+tree item
+This is your username, not your normal Facebook login. If you are facebook.com/badger, enter badger. Use this page to choose a Facebook username if you don't have one.
+New event
+Unable to create XML-RPC message.
+GDB could not be found on your system. Debugging information will not be obtained.
+Highlight last event entry
+No format for the temporary image could be found
+Adapt speed automatically
+encryption failed
+Picture brightness
+Empathy should reduce the location's accuracy
+Brasero - Burning disc (Simulation) 
+Enable H.245 _tunneling
+Size Estimation
+Move ~a onto the reserve.
+Note: Sensitive information may be present in the crash details. Please review the crash details if you are concerned about transmitting passwords or other sensitive information.
+The sound that will be played when calling somebody, if enabled
+Selected columns
+Monitor Home
+Character to add after nickname when using nick completion (tab) in group chat.
+Define a custom message:
+Edit the track information (start, end, author, ...) 
+Couldn't load room list
+Bug Buddy was unable to view the link "%s"
+_Show advanced search options
+desktop frame
+Fire _flash
+five of hearts
+Cheese Website
+Video height
+Error querying for keywords.
+The content of your home folder has changed. Select rescan to update the disk usage details.
+Override stored options
+Maximum video _bitrate (in kbits/s):
+Remote Application:
+Cannot search in the address book
+Address could not be written to this address book.
+Directory Properties
+Adjusts the contrast of the picture coming from the camera
+Edit the video information (start, end, author, ...) 
+Real disc burning will take place in 10 seconds.
+Could not open trash: %s
+Simulation of video disc burning
+Play sound on new message
+Stylus Control
+The session could not be imported.
+Only _Append
+Set your own presence
+Y minimum:
+Height of entry list
+Click here to refresh the device list.
+Properties of %s
+Error setting value: %s
+an empty foundation pile
+Print the edited message
+Next update at {0}
+View notes and notebooks in a list
+Check INBOX _only
+User not found
+Password associated to the user
+Unable to open file "%s" for reading
+Appearance Options
+Inspect accessible under mouse
+Remove the unknown card.
+Normal Size With _Avatars
+Select the audio output device to use
+Process "%s" ended with an error code (%i) 
+Width of the index and search pane
+desktop icon
+An error occurred while detecting silences.
+Whether to play a sound to notify of events.
+Accessible Role
+Scan cycles
+No file selected
+Make _Several Copies
+Forward calls to the given host if _no answer
+_Decline
+Print version information and exit
+Not implemented
+Should Nautilus extension output debug statements
+This file is a video and therefore only the audio part can be written to the disc.
+Impossible to link plugin pads
+Edit contact list properties
+Sound Events
+If enabled, all incoming calls will be forwarded to the host that is specified in the field below
+Which of the tabs is selected: "content" or "search."
+Whether or not Empathy has asked about importing accounts from other programs.
+accelerator label
+select files in the selection pane and click the "Add" button
+Not enough space available on the disc
+Could not remove %s: %s
+Cannot start the game "%s"
+White list of additional plugins to use
+Local Mail_dir mailbox...
+Continue with the current modified project
+Scan Folder...
+Please edit the following fields
+Background properties
+Automatically restart scanning after item activation
+Certificate not activated
+Name of LDAP server, prefixed by ldap://
+Set Bac_kground Properties
+You don't have the needed external application to handle it.
+Save selected as...
+Recursively analyze mount points
+Deal a card
+Select the mode for sending DTMFs. The values can be 0 (for "RFC2833") and 1 (for "INFO") 
+The file "%s" cannot be deleted. Details: %s
+Hashing "%s"
+The dial tone sound
+Outgoing voice call
+Vertical Error (meters):
+Edit LDAP directory
+Cannot read %s: %s
+Show Offline _Contacts
+Dasher socket input: failed to launch reader thread.
+%s, %d%% done, %s remaining
+View notes and notebooks in a grid
+Start with mouse position:
+Very large font
+The type of checksum used for images
+click on the "Remove" button to remove selected items in this area
+Play a card to foundation.
+Default Color
+Connected to server
+You did not supply a host to register to.
+Enable _persistent cache
+Could not register to
+A puzzle game about atoms and molecules
+Take Break Now
+Word-based model
+Maximum Alpha
+Disable STUN network detection
+Could not connect (%s) 
+cdrkit burning suite
+ten of diamonds
+You should have received a copy of the GNU General Public License along with this program. If not, see .
+Authentication User:
+Show session management options
+Very Large
+Do you want to specify another location for this session or retry with the current location?
+A file with this name already exists in the folder. Replacing it will overwrite its content (on the disc only).
+The file "%s" cannot be moved to the trash. Details: %s
+One Dimensional Mode
+Couldn't create a directory: mkdir () failed on pathname "%s."
+Show mailbox statistics in left pane
+DSL/Cable (128 kbit/s uplink) 
+The disc needs to be reloaded before being recorded
+The device which points to the webcam (e.g. /dev/video0) 
+There was an error while opening the device. In case it is a pluggable device it may be sufficient to reconnect it. If not, or if it still is not accessible, please check your permissions and make sure that the appropriate driver is loaded.
+VCD type:
+Yahoo! Japan
+_Mark items read after
+Exit selection mode
+Dvd+rw-format blanks and formats DVD+/-R (W) 
+Slices Preview
+Enable notifications when the _chat is not focused
+Select the video input device to use. If an error occurs when using this device a test picture will be transmitted.
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+Contact short status
+You canceled the file transfer
+Error while padding file (%s) 
+Adjusts the hue (color tint) of the image coming from the camera
+_Mark as read
+Folder creation failed. Reason: %s
+Outgoing mail servers
+Long press time
+Stop _Recording
+Empathy can use the GPS to guess the location
+Brasero Disc Copier
+Are you sure you want to delete '%s'?
+Sp_lit message larger than
+Play sound on incoming calls
+An Instant Messaging client for GNOME
+The port to listen to for incoming connections. Ekiga needs to be restarted for the new value to take effect.
+Cannot check an excluded folder!
+Allow Ekiga to fall back to software scaling the picture-in-picture if hardware support is not available. If this is set to false, Ekiga will not try to open the PIP if hardware support is not available.
+It allows to use ownCloud as a storage location and online editor.
+Burning data disc
+accessibility;development;test;
+Native _format
+Information about the %s application crash has been successfully collected. Please provide some more details about what you were doing when the application crashed. A valid email address is required. This will allow the developers to contact you for more information if necessary.
+Allows to burn files not stored locally
+Miscellaneous spelling settings
+One of the specified fields contains:
+_Show hidden folders
+the five of diamonds
+Could not analyze volume.
+Redeals left:
+Whether to use "-use-the-force-luke=dao" flag with growisofs. Set to false, brasero won't use it; it may be a workaround for some drives/setups.
+Personal Information
+New Game
+Disc image type:
+The width of the channel list.
+The file integrity check could not be performed.
+double click on files in the selection pane
+This game is unable to provide a hint.
+Cannot read message %u to pass to %s
+You should have received a copy of the GNU General Public License along with Brasero; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA
+An IMAP folder that is not a mailbox has no properties that can be changed.
+Maximum depth
+Unable to open the selected audio device for playing. In case it is a pluggable device it may be sufficient to reconnect it. If not, or if it still is not accessible, please check your audio setup, the permissions and that the device is not busy.
+If enabled, Ekiga will start hidden provided that the notification area is present in the GNOME panel
+Falling Stars
+The file is not stored locally
+_Mark as Read
+Choose an icon
+Is used to notify that the table column header has changed
+Change _All
+Globally not acceptable
+Pick a Color
+The simulation was successful.
+Select Game
+The drive address could not be retrieved
+If enabled, use silence detection with the codecs supporting it
+Address Book
+not implemented
+could not create context
+Height of main window
+Enter your full name
+Lag before user actually pushes button (ms) 
+The layout for the top panel
+Click here to burn all suitable songs as DTS tracks
+Remove the fives
+Welcome to Ekiga
+Directories cannot be added to video discs.
+combo box
+"%s" did not behave properly
+an empty left slot
+Calls history
+Description of an object, formatted for assistive technology access
+Please type %s --help to see all available options
+If enabled, use silence detection with the codecs supporting it.
+There are no songs to write to disc
+Move ~a onto an empty top slot.
+Leave fullscreen
+Find previous occurrence of the search string
+The filter "%s" is not compatible with the mailbox type of "%s." This happens for example when you use regular expressions match with IMAP mailboxes, it is done by a very slow method; if possible, use substring match instead.
+Y maximum:
+Enable switch scanning
+Warning: unable to set speech parameters
+Creates disc images suitable for Video DVDs
+the nine of spades
+Total filesystem capacity:
+Rename Note
+Stock remaining: ~a
+The layout for the top panel pluginview.
+Balsa Preferences
+Your video driver doesn't support the requested video format.
+Changes to your home folder will not be monitored.
+There has been an error while importing the accounts.
+Dock application window
+the king of clubs
+Add the Ekiga.net Directory
+The project could not be opened
+No level found.
+Primary Book
+Match when one of these flags is set:
+Clear the slices preview
+Do you want to continue with full Windows compatibility disabled?
+Without mount points disk usage cannot be analyzed.
+Do you really want to empty the current project?
+New collection
+inlined %s part
+Make sure another application is not using it
+the nine of hearts
+Switch to Photo Mode
+Automatically refresh channels interval
+Number of photos in burst mode.
+Split track for each silence
+Burn the disc
+Blank _Again
+Load the last project that was not burnt and not saved
+Unknown color
+Burning data CD
+Enable echo can_celation
+Video Devices
+The fill color of the highlight box
+Could not load X-Face header file %s: %s
+The long status information
+the ten of hearts
+Bug reporting tool
+Do you want to create a disc from the contents of the image or with the image file inside?
+Change the panel section of the main window (0=Contacts, 1=Dialpad, 2=Call history) 
+Switch to Burst Mode
+Disc name
+Whether WebKit developer tools, such as the Web Inspector, should be enabled.
+Could not stop room listing
+Unable to open URI
+The contents of the project changed since it was saved.
+Disable notifications when _away or busy
+Creates disc images suitable for SVCDs
+_Search Directory
+ISO9660 image
+drag files in this area from the selection pane or from the file manager
+Transcoding song
+Write contents to a CD or DVD disc
+Remove the twos
+Burn as _Image
+Encrypted matter
+Subscribed _folders only
+Blank this CD or DVD disc
+Please insert a recordable CD or DVD.
+Blam Feed Reader
+Copy _Link Address
+Launch in Terminal?
+Popup notifications when a contact sign out
+Nick completed character
+Warning: unable to set speech parameters
+The audio codecs list
+No usable audio codecs detected
+Selected Cell
+This week
+Rescan your home folder?
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+Please write your report in English, if possible.
+_Monitor changes to your home folder
+Error opening address book '%s': %s
+Remote Mailbox Configurator
+Include signature when rep_lying
+Error while loading the project.
+The other participant is unable to transfer the file
+The STUN server to use for STUN Support. STUN is a technology that permits passage through some types of NAT gateway
+/topic <topic>: set the topic of the current conversation
+Please fill in this form to change an existing element of the remote roster
+Print current message
+Burn the image directly _without saving it to disc
+Defines the path where the photos are stored. If empty, "XDG_PHOTO/Webcam" will be used.
+Move ~a onto an empty corner slot.
+Hidden file
+Image successfully burned to DVD
+_Disable Full Windows Compatibility
+Unlimited redeals
+_Reuse an existing account
+"%s" is busy.
+Remote user is busy
+Collapse all expanded threads
+Move All to Trash
+Voice Mails
+_Rename for Full Windows Compatibility
+Local Maildir mailbox...
+"%s" could not be opened.
+Whether to use "-immed" flag with cdrecord. Use with caution (set to true) as it's only a workaround for some drives/setups.
+The default plugin layout for the top panel.
+Image type:
+Size of the extended video window
+Ekiga Preferences
+Main window maximized state
+Previous Results
+Other options
+Default height for video preview.
+Call retrieved
+two of spades
+Data could not be read (%s) 
+Brasero - Burning Disc (Simulation) 
+Reply prefix:
+Move waste back to stock
+User is offline
+Maximum speed
+Dvdcss allows to read css encrypted video DVDs
+Disable video hardware acceleration
+Select Playlist
+If you import them you will be able to see and use them once the current selection of files is burned.
+This information will be written to the disc using CD-Text technology. It can be read and displayed by some audio CD players.
+Please set it manually
+Please update the following fields:
+_Variable width:
+Do you want to use it as default device?
+Fill color:
+Whether Empathy should use the avatar of the contact as the chat window icon.
+Queue this message for sending
+Whether connectivity managers should be used to automatically disconnect/reconnect.
+Address books
+Connected with %s
+Local Mail Problem %s
+This list contains all the new available pluginviews
+This key sets where the project pane should be (0 = on the right, 1 = on the left, 2 = at the top, 3 = at the bottom) 
+Find next occurrence of the search string
+Are you sure you want to delete the calendar named '%s'?
+Select the ringing audio device to use
+To remove files from this project you can:
+_Automatically refresh all channels every
+Contact connected
+output version information and exit
+Full Name
+Add a 2 second pause after the track
+None of the specified fields contains:
+accerciser Preferences
+Starting %s
+Placed
+Simulation of data CD burning
+Change the volume of your soundcard
+PID of crashed program
+Accerciser could not see the applications on your desktop. You must enable desktop accessibility to fix this problem. Do you want to enable it now?
+What is your desired Jabber ID?
+Enable H.239
+Remove the selected slices
+Show offline _contacts
+Copying DVD
+Whether to play a sound to notify of new conversations.
+Request terminated
+Contains the list of additional plugins Brasero will use to burn discs. If set to NULL, Brasero will load them all.
+Please install the following required applications and libraries manually and try again:
+An unknown error occurred
+The account associated with the email address provided has been disabled.
+Enable 'Fast Start'
+Pop up notifications when a contact logs out
+Table Information
+Restart the game
+Enable the automatic network setup resulting from the STUN test
+%s was banned
+Whether or not to play a sound when logging in a network.
+Set to True to show countdown when taking a photo
+Please insert a writable CD with at least %i MiB of free space.
+Are you sure you want to delete %d contacts?
+Adjusts the saturation of the image coming from the camera
+Select Editor Font
+This is the Ekiga general configuration assistant. The following steps will set up Ekiga by asking a few simple questions. Once you have completed these steps, you can always change them later by selecting Preferences in the Edit menu.
+Whether or not to show popup notifications when away or busy.
+_Automatically answer incoming calls
+Right zoom
+ten of spades
+Scan a folder
+No filter name specified.
+Disconnected
+Create CDs and DVDs
+The password for the user ID above, if any
+No disc available
+No description
+No topic defined
+View notes and collections in a list
+Brasero - Burning Disc
+Please insert a writable CD.
+toggle button
+the queen of diamonds
+Help on this Application
+Keep current settings
+The disc could not be ejected though it needs to be removed for the current operation to continue.
+Is used to notify that the table summary has changed
+"%s" is not suitable for audio or video media
+Enlarge input window
+Whether to show a popup notification when a contact goes online.
+Unknown value
+Play a different game
+X position of assistant window
+Multiple press interval
+Please insert a disc holding data.
+About
+Allows viewing of various interface properties
+To add a new account, you first have to install a backend for each protocol you want to use.
+You are about to close the window, which will discard your changes. Are you sure you want to proceed?
+Call on hold
+The children of this directory will have 7 parent directories. Brasero can create an image of such a file hierarchy and burn it but the disc may not be readable on all operating systems. Note: Such a file hierarchy is known to work on Linux.
+_Next Tab
+Get new mail on startup
+Increase magnification
+Video DVD successfully burned
+Forward calls to host
+Getting size
+Time between key transitions
+Burning (S) VCD
+Use a countdown
+Clear List
+Reset Level
+Select an alternative audio output device to use for sound events.
+Could not move %s to trash
+Not acceptable
+Whether any change to the home directory should be monitored.
+Set to true to show a countdown before taking a photo
+Please provide a room name
+Connection will be established in Fast Start mode. Fast Start is a new way to start calls faster that was introduced in H.323v2. It is not supported by Netmeeting and using both Fast Start and H.245 Tunneling can crash some versions of Netmeeting
+Error while getting duration
+Local storage
+This is not supported by the current active burning backend.
+%s was kicked
+Error starting spell checker: %s
+Enter a name to create a collection
+User ID; leave blank for anonymous / nonauthenticated
+Filter must have conditions.
+Couldn't create a directory: mkdir () failed on pathname "%s," with error "%s."
+Forward calls after
+Burning audio CD
+Deal new cards from the deck
